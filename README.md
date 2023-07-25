@@ -11,4 +11,4 @@ This script can be run on a freshly installed Ubuntu 22.04 VM. Follow the steps 
 
 
 ### Bugs and feedback
-Reach out to me on [Yakas Security Discord](https://courses.yaksas.in)
+Reach out to me on [Yakas Security Discord](https://discord.gg/7PtbAxg)
