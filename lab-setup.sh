@@ -20,7 +20,9 @@ sudo apt update -y
 # Creating a base directory to install / store all tools
 cd /opt
 sudo mkdir graphql-tools
-sudo chown null:null graphql-tools
+
+# DON'T FORGET TO CHANGE THE USERNAME HERE
+sudo chown ubuntu:ubuntu graphql-tools  
 
 # Installing tools which can be installed via apt or snap
 
