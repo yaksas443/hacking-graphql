@@ -7,6 +7,7 @@ This script can be run on a freshly installed Ubuntu 22.04 VM. Follow the steps 
  - Copy and paste contents of this script in file. Save the file with .sh extension. For example, lab-setup.sh
  - Open a terminal (CTRL+ALT+T) and navigate to the folder where this script is stored.
  - Issue this command (gives execute permission to the script): `chmod +x lab-setup.sh`
+ - Switch to root user (not required for Ubuntu): `sudo su`
  - Execute the script: `./lab-steup.sh`
 
 
