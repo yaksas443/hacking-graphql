@@ -31,6 +31,7 @@ sudo apt install -y git
 sudo apt install -y nmap
 sudo apt install -y fuse libfuse2
 sudo apt install -y openjdk-17-jdk
+sudo apt install -y snapd
 sudo snap install altair
 sudo snap install code
 sudo snap install postman
